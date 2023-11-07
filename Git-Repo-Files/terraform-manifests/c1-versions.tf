@@ -29,4 +29,4 @@ provider "azurerm" {
  features {}          
 }
 
-#Deploy
+#QA, STAGE, PROD Added
