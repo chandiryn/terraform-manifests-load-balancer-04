@@ -29,4 +29,4 @@ provider "azurerm" {
  features {}          
 }
 
-#apply test
+#resource update
